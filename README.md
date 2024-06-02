@@ -1,4 +1,4 @@
-# `worst.sampoder.com`
+# [`worst.sampoder.com`](https://worst.sampoder.com)
 
 "ChatGPT is ruining the web"... I have heard a lot of my friends say that, they complain about the web being full of websites made soley with ChatGPT and no love. They've got a fair point... the only logical response is to make more of these sh*t websites... infinitely more (or up until I lose my OpenAI credits).
 
