@@ -11,3 +11,5 @@ So here we have [worst.sampoder.com](https://worst.sampoder.com/). Every time yo
 <img width="1704" alt="Screenshot 2024-06-01 at 9 30 01 PM" src="https://github.com/sampoder/the-worlds-worst-website/assets/39828164/944213a5-7a57-43c7-b55c-b2e07ba52daf">
 
 <img width="1704" alt="Screenshot 2024-06-01 at 9 29 46 PM" src="https://github.com/sampoder/the-worlds-worst-website/assets/39828164/09e5163e-6945-47fc-b240-4e4476c0fea5">
+
+Yes, this is dumb. I'm at a hackathon and I should get some sleep.
