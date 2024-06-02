@@ -1,0 +1,24 @@
+{
+  "name": "the-worlds-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampoder/the-worlds-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sampoder/the-worlds-website/issues"
+  },
+  "homepage": "https://github.com/sampoder/the-worlds-website#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "s1db": "^0.0.3",
+    "uuid": "^9.0.1"
+  }
+}
